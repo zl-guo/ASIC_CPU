@@ -1,0 +1,10 @@
+*.log
+*.fsdb
+simv
+csrc/
+*.rc
+*.dump
+verdiLog/
+simv.daidir/
+*.conf
+*.key
